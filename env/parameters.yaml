@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:neha-jx-dev-boot/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: foo@bar.com
+  token: vault:neha-jx-dev-boot/pipelineUser:token
+  username: hf-bee-bot
+prow:
+  hmacToken: vault:neha-jx-dev-boot/prow:hmacToken
