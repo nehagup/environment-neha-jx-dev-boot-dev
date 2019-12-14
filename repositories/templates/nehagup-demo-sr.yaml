@@ -7,7 +7,7 @@ metadata:
   labels:
     jenkins.io/chart-release: repos
     jenkins.io/namespace: jx
-    jenkins.io/version: "2"
+    jenkins.io/version: "3"
     owner: nehagup
     provider: github
     repository: demo
