@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/nehagup/demo.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: nehagup
+  repo: demo1
+  url: https://github.com/nehagup/demo1.git
+  version: ""
+  versionURL: ""
