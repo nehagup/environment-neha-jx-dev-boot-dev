@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: nehagup
+    provider: github
+    repository: demo1
+  name: nehagup-demo1
+spec:
+  description: Imported application for nehagup/demo1
+  httpCloneURL: https://github.com/nehagup/demo1.git
+  org: nehagup
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: demo1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/nehagup/demo1.git
