@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: nehagup
+  repo: demo
+  url: https://github.com/nehagup/demo.git
+  version: ""
+  versionURL: ""
